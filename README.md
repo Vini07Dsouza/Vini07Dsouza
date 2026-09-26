@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Vinisha Marina Dsouza 👋</h1>
 
-<h3 align="center">Aspiring IT Professional — Full-Stack Development • AI/ML • Web Security</h3>
+<h3 align="center">Aspiring IT Professional — Full-Stack Development • AI/ML </h3>
 
 <p align="center">
   🎓 MCA student at Shree Devi Institute of Technology, Mangaluru<br>
