@@ -4,7 +4,7 @@
 
 <p align="center">
   🎓 MCA student at Shree Devi Institute of Technology, Mangaluru<br>
-  🧑‍💻 Vice President, Student Council, SDIT<br>
+  🧑‍💻 Vice President,MCA Student Council, SDIT<br>
   📫 <a href="mailto:dsouzavini28@gmail.com">dsouzavini28@gmail.com</a> ·
   <a href="https://linkedin.com/in/vinishadsouza07">LinkedIn</a>
 </p>
